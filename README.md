@@ -14,7 +14,7 @@ That’s it!
 
 ## Installation
 
-Add `pod 'ZWPColorSpace'` to your `Podfile` and then run `pod install`.
+Add `pod 'ZWPColorSpace', :git => 'https://github.com/zwopple/ZWPColorSpace.git'` to your `Podfile` and then run `pod install`.
 
 ## License
 
